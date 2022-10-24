@@ -1,0 +1,16 @@
+const express =require('express');
+const app=express();
+const cors =require('cors');
+const port = process.env.PORT || 5000;
+
+app.use(cors());
+
+app.get('/', (req, res) => {
+    res.send('Education Electrical Engineering API Running');
+});
+
+
+
+app.listen(port, () => {
+    console.log('Dragon News Server running on port', port);
+})
