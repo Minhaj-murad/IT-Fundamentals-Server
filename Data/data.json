@@ -1,0 +1,87 @@
+ [
+        {
+            "id":1,
+            "province": "Toronto ",
+            "university": "Carleton University",
+            "subject": "Master of Engineering in Electrical and Computer Engineering",
+            "image": "./uniImages/img-1.jpg"
+        },
+        {
+            "id":2,
+            "province": "Montreal ",
+            "university": "Concordia University",
+            "subject": "Master of Engineering - Electrical and Computer Engineering",
+            "image": "./uniImages/img-2.jpg"
+        },
+        { 
+            "id":3,
+            "province": "Windsor",
+            "university": "University of Windsor",
+            "subject": "Master of Engineering in Electrical Engineering ",
+            "image": "./uniImages/img-3.jpeg"
+        },
+        { 
+            "id":4,
+            "province": "Saskatchewan",
+            "university": "University of Saskatchewan",
+            "subject": "Master of Engineering in Electrical Engineering",
+            "image": "./uniImages/img-4.jpg"
+        },
+        { 
+            "id":5,
+            "province": "Ottawa",
+            "university": "University of Ottawa",
+            "subject": "Master of Engineering in Electrical and Computer Engineering ",
+            "image": "./uniImages/img-5.jpg"
+        },
+        { 
+            "id":6,
+            "province": "Winnipeg ",
+            "university": " University of Manitoba",
+            "subject": "Master of Engineering in Electrical and Computer Engineering",
+            "image": "./uniImages/img-6.jpeg"
+        },
+        {
+            "id":7,
+            "province": "London,Canada ",
+            "university": "Western University",
+            "subject": "Master of Engineering in Electrical and Computer Engineering",
+            "image": "./uniImages/img-7.jpg"
+        },
+        {
+            "id":8,
+            "province": "Alberta ",
+            "university": "University of Alberta",
+            "subject": "Master of Science in Electrical and Computer Engineering ",
+            "image": "./uniImages/img-8.jpg"
+        },
+        {
+            "id":9,
+            "province": "Ottawa ",
+            "university": "Lakehead University",
+            "subject": "Master of Science in Electrical and Computer Engineering ",
+            "image": "./uniImages/img-9.jpg"
+        },
+        {
+            "id":10,
+            "province": "Toronto",
+            "university": "Ontario Tech University",
+            "subject": "Master of Applied Science in Electrical and Computer Engineering",
+            "image": "./uniImages/img-10.jpg"
+        },
+        {
+            "id":11,
+            "province": "Toronto ",
+            "university": "University of Toronto",
+            "subject": "Master of Engineering in Electrical Engineering",
+            "image": "./uniImages/img-11.jpg"
+        },
+        {
+            "id":12,
+            "province": "Victoria ",
+            "university": " University of Victoria",
+            "subject": "Master of Engineering in Electrical ",
+            "image": "./uniImages/img-12.jpg"
+        }
+    
+    ]
