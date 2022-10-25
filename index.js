@@ -4,23 +4,31 @@ const cors =require('cors');
 const port = process.env.PORT || 5000;
 
 
-const universities = require('./Data/data.json');
+const courses = require('./Data/data.json');
 app.use(cors());
 
 app.get('/', (req, res) => {
-    res.send('Education Electrical Engineering API Running');
+    res.send('Computer Engineering Courses API Running');
 });
 
-app.get('/universities', (req, res) =>{
-    res.send(universities);
+app.get('/courses', (req, res) =>{
+    res.send(courses);
 });
 
-app.get('/universities/:id', (req, res) => {
+app.get('/courses/:id', (req, res) => {
     
     const id =parseInt(req.params.id) ;
-    const selecteduniversitiesid = universities.find(uni => uni.id == id);
-    console.log(selecteduniversitiesid);
-    res.send(selecteduniversitiesid);
+    const selectedcoursesid = courses.find(course => course.id == id);
+    console.log(selectedcoursesid);
+    res.send(selectedcoursesid);
+});
+app.get('/coursess/:name', (req, res) => {
+    
+    const name =req.params.name ;
+    console.log(name);
+    const selectedcoursesname = courses.find(uni => uni.courseName ==name);
+    console.log(selectedcoursesname);
+    res.send(selectedcoursesname);
 });
 
 
@@ -29,5 +37,5 @@ app.get('/universities/:id', (req, res) => {
 
 
 app.listen(port, () => {
-    console.log('Eduction Server running on port', port);
+    console.log('Computer Education Server running on port', port);
 })
