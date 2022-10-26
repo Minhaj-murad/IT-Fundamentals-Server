@@ -2,6 +2,8 @@
         {
             "id":"1",
             "courseName": "C and C++ language",
+            "price":"2500 taka",
+            "description": "C is a high-level programming language that was developed in the mid-1970s. It was originally used for writing Unix programs, but is now used to write applications for nearly every available platform. Compared to most previous languages, C is easier to read, more flexible (can be used for a wide variety of purposes), and more efficient at using memory. C++, pronounced ,C plus plus,is a programming language that was built off the C language. The syntax of C++ is nearly identical to C, but it has object-oriented features, which allow the programmer to create objects within the code. This makes programming easier, more efficient, and some would even say, more fun. Because of the power and flexibility of the language, most software programs today are written in C++." ,
             "duration": "3 months",
             "bestInstitue": "Time Door Academy",
             "image": "https://i.ibb.co/NrxX63n/img-1.jpg"
@@ -9,6 +11,8 @@
         {
             "id":2,
             "courseName": "LINUX",
+            "price":"3500 taka",
+            "description":"Linux® is an open source operating system (OS). An operating system is the software that directly manages a systems hardware and resources, like CPU, memory, and storage. The OS sits between applications and hardware and makes the connections between all of your software and the physical resources that do the work.Think about an OS like a car engine. An engine can run on its own, but it becomes a functional car when its connected with a transmission, axles, and wheels. Without the engine running properly, the rest of the car wouldnot work.Linux was designed to be similar to UNIX, but has evolved to run on a wide variety of hardware from phones to supercomputers. Every Linux-based OS involves the Linux kernel—which manages hardware resources—and a set of software packages that make up the rest of the operating system.The OS includes some common core components, like the GNU tools, among others. These tools give the user a way to manage the resources provided by the kernel, install additional software, configure performance and security settings, and more. All of these tools bundled together make up the functional operating system. Because Linux is an open source OS, combinations of software can vary between Linux distributions." ,
             "duration": "6 months ",
             "bestInstitue": "Linux Pathshala Limited",
             "image": "https://i.ibb.co/VtShSKF/img-2.png"
@@ -16,6 +20,8 @@
         { 
             "id":3,
             "courseName": "Hadoop ",
+            "price":"5500 taka",
+            "description":"Apache Hadoop is an open source framework that is used to efficiently store and process large datasets ranging in size from gigabytes to petabytes of data. Instead of using one large computer to store and process the data, Hadoop allows clustering multiple computers to analyze massive datasets in parallel more quickly.Hadoop consists of four main modules:Hadoop Distributed File System (HDFS): A distributed file system that runs on standard or low-end hardware. HDFS provides better data throughput than traditional file systems, in addition to high fault tolerance and native support of large datasets;Yet Another Resource Negotiator (YARN): Manages and monitors cluster nodes and resource usage. It schedules jobs and tasks;MapReduce : A framework that helps programs do the parallel computation on data. The map task takes input data and converts it into a dataset that can be computed in key value pairs. The output of the map task is consumed by reduce tasks to aggregate output and provide the desired result;Hadoop Common : Provides common Java libraries that can be used across all modules. " ,
             "duration": " 3-4 months",
             "bestInstitue": "Zeolearn ",
             "image": "https://i.ibb.co/TRvZYGG/img-3.jpg"
@@ -23,6 +29,8 @@
         { 
             "id":4,
             "courseName": "Android Mobile App Development",
+            "price": "7000 taka",
+            "description":"Mobile application development is the process of creating software applications that run on a mobile device, and a typical mobile application utilizes a network connection to work with remote computing resources. Hence, the mobile development process involves creating installable software bundles (code, binaries, assets, etc.) , implementing backend services such as data access with an API, and testing the application on target devices.There are two dominant platforms in the modern smartphone market. One is the iOS platform from Apple Inc. The iOS platform is the operating system that powers Apple's popular line of iPhone smartphones. The second is Android from Google. The Android operating system is used not only by Google devices but also by many other OEMs to built their own smartphones and other smart devices. Although there are some similarities between these two platforms when building applications, developing for iOS vs. developing for Android involves using different software development kits (SDKs) and different development toolchain. While Apple uses iOS exclusively for its own devices, Google makes Android available to other companies provided they meet specific requirements such as including certain Google applications on the devices they ship. Developers can build apps for hundreds of millions of devices by targeting both of these platforms." ,
             "duration": "30 days",
             "bestInstitue": "Google's Kotlin for Android",
             "image": "https://i.ibb.co/hMg2KD6/img-4.jpg"
@@ -30,6 +38,8 @@
         { 
             "id":5,
             "courseName": "Application Development using Mysql and php",
+            "price": "4500 taka",
+            "description": " PHP is a fast and feature-rich open source scripting language used to develop Web Applications or Internet / Intranet Applications.MySQL is a powerful open source database server built based on a relational database management system (RDBMS) and is capable of handling a large concurrent database connection.When combined together, talented PHP and MySQL developers can build very powerful and scalable Web / Internet / Intranet Applications. PHP and MySQL are referred to as development tools. PHP and MySQL are Open Source, meaning that they are free development tools, and there is a large community of dedicated volunteer programmers who contribute to make improvements and are continuously adding features to it. The development tools and database servers that require licensing costs have limited programming resources compared to open source development tools, which have an enormous and fast growing dedicated and knowledgeable community that extends around the world.There has been disagreement about which tool is better. Naturally, the developer who is more familiar with one tool over the other will stand behind the tool that he or she has experience with. With our experience, we have found that, PHP and MySQL are the best development tools. When developed correctly, applications can be built with clean and simple usability, complex functionality, speed, power and scalability. " ,
             "duration": "7 months",
             "bestInstitue": "Google's Kotlin for Androi ",
             "image": "https://i.ibb.co/0YNz1b6/img-5.jpg"
@@ -37,6 +47,8 @@
         { 
             "id":6,
             "courseName": "Oracle",
+            "price": "2200 taka",
+            "description":"An Oracle database is a collection of data treated as a unit. The purpose of a database is to store and retrieve related information. A database server is the key to solving the problems of information management. In general, a server reliably manages a large amount of data in a multiuser environment so that many users can concurrently access the same data. All this is accomplished while delivering high performance. A database server also prevents unauthorized access and provides efficient solutions for failure recovery.Oracle Database is the first database designed for enterprise grid computing, the most flexible and cost effective way to manage information and applications. Enterprise grid computing creates large pools of industry-standard, modular storage and servers. With this architecture, each new system can be rapidly provisioned from the pool of components. There is no need for peak workloads, because capacity can be easily added or reallocated from the resource pools as needed.The database has logical structures and physical structures. Because the physical and logical structures are separate, the physical storage of data can be managed without affecting the access to logical storage structures." ,
             "duration": "4 weeks ",
             "bestInstitue": "The Knowledge Academy",
             "image": "https://i.ibb.co/Wym5mMp/img-6.png"
@@ -44,6 +56,8 @@
         {
             "id":7,
             "courseName": "Search Engine Optimization (SEO)",
+            "price": "6500 taka",
+            "description":"If you are a website owner, you may have heard of search engine optimization (SEO)People browse the internet and search for things every day. According to GlobalWebIndex, 60% of the worlds population has access to the internet. And did you know that 53% of B2B and B2C website traffic comes from organic search? That means more than half of your website traffic could come from search engines like Google. So you need to optimize your website for search engines to get website traffic. Despite that, The Manifest shares that only 30% of US business owners have an SEO strategy in place. Most entrepreneurs that have tried it found it too time-consuming and have seen little SEO success. But actually, SEO is not as complicated as it seems. Once you become familiar with the fundamentals of SEO, you will realize that SEO is about implementing best practices that give search engines and visitors the best chance of finding your website." ,
             "duration": "8 weeks",
             "bestInstitue": "Jobayer Academy",
             "image": "https://i.ibb.co/M5NSshW/img-7.png"
@@ -51,6 +65,8 @@
         {
             "id":8,
             "courseName": "Windows app development",
+            "price": "8500 taka" ,
+            "description":"A quite long time ago, Apple and afterward Google have introduced a completely new and super convenient way of buying, updating, categorization, and choosing the software for everyday usage  App Store and Google Play. There is no need to explain how this has shifted the industry and the work of the engineering teams. It was a matter of time for Microsoft to include the similar store to their next major OS release. With the Windows 10, the Windows Store was introduced to the public. So the software vendors officially got the permissions and tools needed for the Windows 10 app development. Even despite the fact this store cannot be view as the most successful one, still, it helps companies providing windows app development services to appeal to the whole 700 million Windows 10 users across all devices. Despite all the conversations about the desktop software death in the past years, most of the professional tools like Photoshop or AutoCAD are still running locally on s machines.A quite long time ago, Apple and afterward Google have introduced a completely new and super convenient way of buying, updating, categorization, and choosing the software for everyday usage: App Store and Google Play. There is no need to explain how this has shifted the industry and the work of the engineering teams. It was a matter of time for Microsoft to include the similar store to their next major OS release. With the Windows 10, the Windows Store was introduced to the public. So the software vendors officially got the permissions and tools needed for the Windows 10 app development. Even despite the fact this store cannot be view as the most successful one, still, it helps companies providing windows app development services to appeal to the whole 700 million Windows 10 users across all devices. Despite all the conversations about the desktop software death in the past years, most of the professional tools like Photoshop or AutoCAD are still running locally on users machines.Naturally, Microsoft has been pushing for its users to begin using this technology since it was first deployed. One interesting way that the company is reaching out to desktop software development companies is through Cortana. Since Cortana has hundreds of thousands of users on the Android system, and since most of those individuals also use Windows, there is a new notification sync feature that allows users to receive and interact with their Android notifications on a Windows system. Along with that, there is a button that comes with a notification from an Android phone that requests the app be optimized for the Windows Store as well. This is a very subtle way to motivating companies to build their Android Apps in the UWP system." ,
             "duration": "300hours",
             "bestInstitue": "Google Play Academy ",
             "image": "https://i.ibb.co/9HLMK7V/img-8.jpg"
@@ -58,6 +74,8 @@
         {
             "id":9,
             "courseName": "Advanced Java",
+            "price": "4500 taka",
+            "description": "he dictionary meaning of advance is a forward movement or a development or improvement and the meaning of improve means thing that makes something better. All in all, we have to improve our basic knowledge to master in that particular field.Java is divided into two parts i.e. Core Java (J2SE) and Advanced Java (JEE). The core Java part covers the fundamentals (data types, functions, operators, loops, thread, exception handling, etc.) of the Java programming language. It is used to develop general purpose applications. Whereas Advanced Java covers the standard concepts such as database connectivity, networking, Servlet, web-services, etc. In this section, we will discuss what is advance Java, its benefit, uses, topics of advance Java, and the difference between core Java and advance Java.It is a part of Java programming language. It is an advanced technology or advance version of Java specially designed to develop web-based, network-centric or enterprise applications. It includes the concepts like Servlet, JSP, JDBC, RMI, Socket programming, etc. It is a specialization in specific domain.",
             "duration": " 3 to 12 months",
             "bestInstitue": "Techstack Academy ",
             "image": "https://i.ibb.co/VVBCdwn/img-9.png"
@@ -65,6 +83,8 @@
         {
             "id":10,
             "courseName": "Core Java",
+            "price": "4000 taka", 
+            "description":"The word Core describes the basic concept of something, and here, the phrase 'Core Java' defines the basic Java that covers the basic concept of Java programming language. We all are aware that Java is one of the well-known and widely used programming languages, and to begin with it, the beginner has to start the journey with Core Java and then towards the Advance Java. The Java programming language is a general-purpose programming language that is based on the OOPs concept. The ocean of Java is too deep to learn, i.e., as much you learn more, you will know its depth. Java is a platform-independent and robust programming language. The principle followed by Java is WORA that says Write Once, Run Anywhere. The programming language is quite simple and easy to understand. But one should know that Core Java is not different from Java. Java is complete in itself, but for the beginners, it is natural that the beginner must begin with the core concepts of Java. In actual, Java has different editions, where Core Java is one of the parts of an edition." ,
             "duration": " 9 months",
             "bestInstitue": "Codecademy",
             "image": "https://i.ibb.co/8bRzc5H/img-10.png"
@@ -72,6 +92,8 @@
         {
             "id":11,
             "courseName": "CCNA",
+            "price": "2800 taka",
+            "description":"The Cisco Certified Network Associate (CCNA) certification is the second level of Cisco's five-level career certification process. A CCNA certification certifies a technician's ability to install, set up, configure, troubleshoot and operate a medium-sized routed and switched computer network. This also includes implementing and verifying connections to a wide area network (WAN).Colleges and universities that offer Cisco training are considered member of the Cisco Networking Academy. All specialist certifications are valid for two years. Recertification requires taking a higher-level exam or retaking the previous exam, as determined by Cisco.A CCNA three-year certification is obtained by passing Cisco Exam No.640-802 or by taking two other exams with passing scores: ICND1 No.640-822 and ICND2 No.640-816.Subjects in the curriculum include the use of frame relay, Routing Information Protocol (Version 2), Internet Protocol, Enhanced Interior Gateway Routing Protocol, virtual local area networks, access control lists and Ethernet." ,
             "duration": "26 weeks",
             "bestInstitue": "Udemy",
             "image": "https://i.ibb.co/b1fRpwR/img-11.png"
@@ -79,6 +101,8 @@
         {
             "id":12,
             "courseName": "SQL",
+            "price": "3200 taka",
+            "description":"Structured Query Language (SQL) is a programming language that is typically used in relational database or data stream management systems.It was developed by IBM in the early 1970s and is now an official standard recognized by the American National Standards Institute (ANSI) and the International Organization for Standardization (ISO).SQL has remained a consistently popular choice for database users over the years primarily due to its ease of use and the highly effective manner in which it queries, manipulates, aggregates data and performs a wide range of other functions to turn massive collections of structured data into usable information.For this reason, it has been incorporated into numerous commercial database products, such as MySQL, Oracle, Sybase, SQL Server, Postgres and others. In fact, many non-relational databases like MongoDB and DynamoBD are called NoSQL products due to their lack of SQL programming.While different iterations of SQL may utilize different syntax for key operations, in general, basic commands like select, insert, update and create are common to all SQL releases. This makes it very easy for someone with a basic knowledge of SQL to work in many different environments and perform a wide variety of tasks." ,
             "duration": "24 days ",
             "bestInstitute": "University of California ",
             "image": "https://i.ibb.co/pRDmXTD/img-12.jpg"
